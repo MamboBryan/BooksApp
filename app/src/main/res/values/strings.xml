@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="list_activity_label">books list </string>
+    <string name="details_activity_label">book details</string>
+
+    <string name="popular_text">Popular Books</string>
+    <string name="search_edittext">What would you like to read?</string>
+    <string name="Lists_info">Here\'s what we got</string>
+    <string name="read_more">Read more</string>
+</resources>
